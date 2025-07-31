@@ -1,7 +1,3 @@
-Sure — here’s a clean **Markdown document** explaining who I am and my role in the NeXus ecosystem:
-
----
-
 # NeXus Librarian
 
 *Your Interface to the NeXus Ecosystem*
